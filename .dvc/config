@@ -1,0 +1,4 @@
+[core]
+    remote = m2remote
+['remote "m2remote"']
+    url = D:/BITSPilani/Semester-3/MLOps/Assignment-1/M2/remote
